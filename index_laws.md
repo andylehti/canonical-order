@@ -31,7 +31,7 @@ $$
 But what would $(-5)^{5.5}$ equal? This is where some got confused and where arithmetic begins breaking into an **imaginary realm** of understanding, as fractional exponents involving negatives inherently introduce imaginary numbers:
 
 $$
-(-5)^{5.5} = \sqrt{-3125^5}
+(-5)^{5} = \sqrt{-3125^5}
 $$
 
 This represents a breakdown in practical arithmetic and shifts into theoretical constructs like complex numbers, which are often presented as if they are "real" when their interpretation is not intuitive or tied to the physical world.
@@ -98,7 +98,7 @@ These results cannot be consistently undone using operations such as $\sqrt{4}$,
 The **Canonical Order** eliminates ambiguities caused by symbols like the square root, which introduces errors across mathematical literature due to inconsistent sign placement interpretations. For example:
 
 $$
--\sqrt{-5}\ simplifies\ to\ -(-5^{1/2})
+-\sqrt{-5}\ simplifies\ to\ -(-5^{\frac{1}{2}})
 $$
 
 Such ambiguities create deeper errors as complexity increases.
@@ -110,11 +110,11 @@ Such ambiguities create deeper errors as complexity increases.
 ## Clarifications under the Canonical Order  
 
 $$
-x^{\frac{2}{3}} = the\ **cube\ root\ of\ x^2$**\ or\ \sqrt[3]{x^2}
+x^{\frac{2}{3}} = the\ cube\ root\ of\ x^2 \ or\ \sqrt[3]{x^2}
 $$
 
 $$
-x^{\frac{3}{4}} = the\ **fourth\ root\ of\ x^3$**\ or\ \sqrt[4]{x^3}
+x^{\frac{3}{4}} = the\ fourth\ root\ of\ x^3\ or\ \sqrt[4]{x^3}
 $$
 
 ---
