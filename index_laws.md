@@ -1,6 +1,55 @@
-# Canonical Order of Operations Index Laws
+# **The Canonical Order of Operations: A Separate Framework**  
 
-**By Andrew Lehti**
+**Author:** Andrew Lehti  
+**Disciplines:** Cognitive Psychology, Linguistics, Mathematics, and their Histories  
+**DOI:** 10.6084/m9.figshare.27661734  
+**Date:** November 14, 2024  
+
+---
+
+## **Preface**
+
+The Canonical Order of operations addresses a recurring error commonly made in calculations. This error is significant because incorrect interpretations have been repeatedly overwritten by newer material, amplifying a global error. While these issues persist, I recognize that overhauling the current system is impractical. To address this, this paper introduces a legacy model of the original system, referred to as the Standard Order, which contrasts with the Canonical Order by strictly adhering to the intended index laws. [Canonical Order: Index Laws](https://github.com/andylehti/canonical-order/blob/main/index_laws.md)  
+
+I believe academics must decide whether to prioritize correctness or maintain traditional systems that perpetuate real-world errors, akin to dogmatic belief structures. This decision ultimately weighs the pursuit of truth against preserving artificially upheld conventions. It is an important lesson that, regardless of how advanced humans become or how much understanding is achieved:  
+
+1. **Congruence ≠ Truth:** Logical consistency or alignment does not guarantee truth.  
+2. **Well-established ≠ Truth:** Traditions, authority, or widespread acceptance do not inherently equate to truth.  
+3. **Lying to Yourself ≠ Truth:** Personal bias or self-deception cannot substitute objective reality.  
+4. **The Truth is Uncomfortable:** This feeling will always persist, and in my paper of Cognitive Impasse, it manifests **as the feeling of impending doom and guilt.** 
+4. **Persisting with the Standard Order = Bias = Lies = Science:** If the alternate route of maintaining the Standard Order is chosen, it directly equates to equating science with lies.  
+
+I am often misperceived as a beginner or novice because I choose not to follow conventional textbook examples. However, I adhered to the incorrect Standard Order for many years and was recognized as one of the best testers in mathematics in Minnesota. I have also made significant contributions to mathematical research, including developing the **Polyhedral Index Partition** ([10.6084/m9.figshare.27642783](https://doi.org/10.6084/m9.figshare.27642783)), a framework that incorporates negative numbers. While this work has not yet been incorporated into the core mathematical model, I am refining it to explore infinite partitions. My ongoing research aims to extend my discoveries of Pascal Dimensions and Pascal Laterals into negative dimensions—a realm that is inherently challenging for human comprehension.
+
+---
+
+## **Abstract**
+
+The Canonical Order of Operations introduces a unified framework to resolve ambiguities in traditional arithmetic, particularly in handling negative values, roots, and exponents. By eliminating inconsistencies that necessitate the use of imaginary numbers and redefining the treatment of operations involving negatives, this framework preserves the integrity of real numbers without resorting to abstract constructs. Rooted in centuries of mathematical tradition, the Canonical Order replaces symbols such as the radical ($\sqrt{}$) with explicit fractional exponents, making these concepts more accessible and intuitive for learners. This paper explores the historical context, defines the Canonical Order, and demonstrates its potential to simplify mathematical education and computation while maintaining logical consistency.  
+
+---
+
+## **History**
+
+Mathematics has long contended with the representation of roots and exponents. Traditional arithmetic often defines exponents as repeated multiplication, while roots are represented using symbols such as $\sqrt{}$. However, negative bases and fractional exponents introduced complexities that led to the development of imaginary numbers, expressed as $i = \sqrt{-1}$. These constructs, while mathematically elegant, introduced additional abstractions that often confused learners and extended the number system beyond real numbers.  
+
+Prominent mathematicians, including René Descartes and Leonhard Euler, questioned the necessity of imaginary numbers, proposing that improved handling of negatives might obviate such abstractions. Yet, due to inconsistencies in the order of operations and ambiguities surrounding the radical symbol, these ideas remained unrealized.  
+
+The Canonical Order of Operations builds upon these historical insights, offering a consistent framework to manage negatives, roots, and exponents without ambiguity. By reinterpreting these operations within a unified system, the Canonical Order simplifies computation and demystifies concepts previously associated with complex numbers.  
+
+---
+
+## **Introduction**
+
+The Standard Order of Operations, established in the 20th century, provides a foundational framework for arithmetic and algebra worldwide. While effective for basic computations, this system encounters limitations in its treatment of negative bases and roots, leading to confusion and inconsistencies. These shortcomings have necessitated workarounds, such as the introduction of imaginary numbers and new index laws, which deviate from the framework of the original Order of Operations. A framework that was already capable of understanding and interpretating negative values, further proving its ultimate 
+
+For example, the expression $\sqrt{-4}$ is considered undefined in the real number system, requiring the use of the imaginary unit $i$. Similarly, $(-2)^{\frac{3}{2}}$ often confounds learners due to unclear rules governing fractional exponents applied to negative bases. These ambiguities hinder mathematical understanding and complicate computation.
+
+The Canonical Order of Operations addresses these challenges by redefining the interactions involving negatives and roots. It treats all bases, including negatives, consistently across operations and replaces the radical symbol ($\sqrt{}$) with fractional exponents. This approach reduces the cognitive load for learners and ensures that operations remain within the real number system.
+
+By replacing ambiguous symbols that even some professionals have a hard time remember work and clarifying the treatment of negatives, the Canonical Order directly addresses critical issues in mathematics education. For students, the elimination of the radical symbol simplifies the transition from basic arithmetic to advanced algebra and calculus, making these subjects more accessible.
+
+# Canonical Order of Operations Index Laws
 
 ---
 
@@ -31,7 +80,7 @@ $$
 But what would $(-5)^{5.5}$ equal? This is where some got confused and where arithmetic begins breaking into an **imaginary realm** of understanding, as fractional exponents involving negatives inherently introduce imaginary numbers:
 
 $$
-(-5)^{5} = \sqrt{-3125^5}
+(-5)^{5} = \sqrt[5]{-3125^5}
 $$
 
 This represents a breakdown in practical arithmetic and shifts into theoretical constructs like complex numbers, which are often presented as if they are "real" when their interpretation is not intuitive or tied to the physical world.
@@ -318,3 +367,43 @@ This law establishes that every base, whether explicitly stated or in parenthese
 2. In cases involving negatives, such as $(-a)^m$, apply this implicit unity to the absolute base:
    
    $(-a)^m = (-a^1)^m = -a^{1 \times m} = -a^m$
+
+---
+
+## **Framework Overview**
+
+### **Unified Rules for Roots and Exponents**  
+The Canonical Order establishes explicit rules for handling roots and exponents across all base values, including negatives. Fractional exponents consistently replace the radical symbol, removing ambiguities and ensuring compatibility with the real number system.  
+
+Key examples include:  
+- $\sqrt{4} = 4^{\frac{1}{2}}$  
+- $\sqrt[3]{8} = 8^{\frac{1}{3}}$  
+- $\sqrt{-9}$ reinterpreted as $(-9)^{\frac{1}{2}}$, retaining its real-number definition.  
+
+This framework eliminates inconsistencies, providing learners with a single, coherent system.  
+
+### **Explicit Treatment of Negative Bases**  
+Negative bases are explicitly incorporated into the rules governing exponents, eliminating the need for imaginary constructs. For instance, operations such as $(-3)^{\frac{2}{3}}$ are clarified using consistent principles that naturally extend from the treatment of positive bases.  
+
+### **Elimination of the Radical Symbol**  
+The radical symbol ($\sqrt{}$), a source of confusion for many learners, is entirely replaced by fractional exponents. This substitution aligns all operations under a unified framework, bridging the gap between basic arithmetic and advanced mathematical concepts.  
+
+---
+
+## **Educational Advantages**
+
+### **Simplification of Mathematical Concepts**  
+The elimination of symbols such as $\sqrt{}$ and the consistent treatment of operations reduce cognitive load for students. Learners can more easily grasp fractional exponents when negative bases are treated systematically.  
+
+For example, operations such as $\sqrt[3]{-8} = (-8)^{\frac{1}{3}}$ are rendered intuitive, fostering a deeper understanding of mathematical principles.  
+
+### **Improved Transition to Advanced Topics**  
+By clarifying foundational concepts, the Canonical Order facilitates a smoother progression from arithmetic to algebra, calculus, and beyond. Students encounter fewer conceptual hurdles, improving their confidence and engagement with mathematics.  
+
+---
+
+## **Conclusion**
+
+The Canonical Order of Operations provides a transformative framework for mathematics, addressing long-standing ambiguities in the Standard Order. By treating negatives consistently, redefining roots as fractional exponents, and eliminating the radical symbol, this system simplifies computation and enhances learning.  
+
+This framework realizes the historical aspirations of mathematicians who questioned the necessity of imaginary numbers, offering a unified approach that retains the integrity of the real number system. With its emphasis on clarity and consistency, the Canonical Order equips learners and practitioners with a robust, intuitive foundation for mathematical exploration.  
