@@ -97,7 +97,7 @@ def calcEx(e):
 
 # User input
 input_expression = st.text_input(
-    "Enter a PEMDAS equation only (without variables.) Not to be used in production):",
+    "Enter a PEMDAS equation only (without variables):",
     "(-25)^2 * (-5^2)^2 + (-5^(1/2))^2 - (-5^2)^2 / (-8^(3/5))^(2/3)"
 )
 
