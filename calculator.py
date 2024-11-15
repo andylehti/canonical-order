@@ -12,6 +12,8 @@ st.set_page_config(
 preface_content = """
 # Preface and Paper
 
+DOI: [10.6084/m9.figshare.27661734](https://doi.org/10.6084/m9.figshare.27661734)
+
 Humans judge this prematurely, without understanding the implications. They judge because they assume their information is infallible and that humans could never make a mistake. The standard system remains easily broken when any assortment of the laws is applied correctly. These serious implications can even lead to death. Despite humans trying to patch this error for nearly 40 years, I doubt they will ever fully succeed. A misconception of this scale only arises when valid methods exist to assess it.  
 
 I understand that people want an alternative source, so here is ChatGPT, which, mind you, I have to use because humans are so relunctant actually review this information, and ChatGPT: adamantly opposed this every time I presented it. However, after I established a full paper on the subject, it asserts differently now, but still remains skeptical at the incorporation of the new order, which is why legacy support was built to ensure a smooth and gradual transition:  
@@ -95,7 +97,7 @@ def calcEx(e):
 
 # User input
 input_expression = st.text_input(
-    "Enter a PEMDAS equation only (without variables | not to be used in production):",
+    "Enter a PEMDAS equation only (without variables.) Not to be used in production):",
     "(-25)^2 * (-5^2)^2 + (-5^(1/2))^2 - (-5^2)^2 / (-8^(3/5))^(2/3)"
 )
 
