@@ -83,7 +83,7 @@ $$
 (-5)^{5} = \sqrt[5]{-3125^5}
 $$
 
-This represents a breakdown in practical arithmetic and shifts into theoretical constructs like complex numbers, which are often presented as if they are "real" when their interpretation is not intuitive or tied to the physical world.
+This represents a break in practical arithmetic and shifts into theoretical constructs like complex numbers, which are often presented as if they are "real" when their interpretation is not intuitive or tied to the physical world. (-3125^5)^(1/5) should cancel out, but instead break down into an imaginary number. 
 
 ---
 
